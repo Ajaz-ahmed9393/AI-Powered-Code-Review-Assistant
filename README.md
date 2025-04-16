@@ -1,4 +1,4 @@
-AI-Powered Code Review Assistant
+<h5>AI-Powered Code Review Assistant</h5>
 
 An intelligent tool that leverages AI to automate and streamline the code review process. This assistant analyzes source code for potential issues, suggests improvements, and promotes best practices, 
 ultimately boosting code quality and team efficiency.
